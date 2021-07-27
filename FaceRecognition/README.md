@@ -42,4 +42,4 @@ Finally, we need a classifier (Linear SVM or other classifier) to find the perso
 
 Thanks to Adam Geitgey who wrote a great [post](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) about this, I followed his pipeline.
 
-![Result](https://github.com/alexattia/Data-Science-Projects/blob/master/FaceRecognition/result.png)
+![Result](https://github.com/darenn1/Facial-Recognition/blob/main/FaceRecognition/result.png)
